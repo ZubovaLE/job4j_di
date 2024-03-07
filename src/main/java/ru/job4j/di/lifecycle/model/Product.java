@@ -1,4 +1,4 @@
-package ru.job4j.job4j_di.lifecycle.model;
+package ru.job4j.di.lifecycle.model;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

@@ -14,7 +14,7 @@
     <name>job4j_di</name>
     <description>job4j_di</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>20</java.version>
     </properties>
     <dependencies>
         <dependency>
